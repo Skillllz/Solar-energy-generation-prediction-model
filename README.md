@@ -30,24 +30,6 @@ Dependencies
 * Seaborn
 * Numpy
 
-Model Architecture
---------
-<p float="left">
-  <img src="results/Network%20Architecture.png" alt="drawing" width="500"/>
-  <img src="results/spfnet_model.png" alt="drawing" width="300"/>
-</p>
-
-Results
--------
-<p float="left">
-  <img src="results/train%20pred%20vs%20real%20data.png" alt="drawing" width="400"/>
-  <img src="results/test%20pred%20vs%20real%20data.png" alt="drawing" width="400"/>
-</p>
-
-- lasso regressor feature importance
-
-![alt](results/lasso%20regressor%20feature%20importance.png)
-
 | Evaluation Parameter  | Value  |
 | --------- | -------|
 |R2 Score of Whole Data Frame	|0.881888|
